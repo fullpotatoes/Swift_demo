@@ -10,4 +10,4 @@ var dailyBenefit = 10
 var result = price / dailyBenefit
 
 // Remplacer les X par les bonnes valeurs
-let message = "Cher Joe, il te faudra économiser pendant X jours pour te payer ton voyage à X €"
+let message = "Cher Joe, il te faudra économiser pendant \(result) jours pour te payer ton voyage à \(price) €"
