@@ -1,3 +1,5 @@
+import UIKit
+
 var money = 0.0
 
 var nuriture = 4.0
